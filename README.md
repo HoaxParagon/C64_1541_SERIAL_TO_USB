@@ -10,11 +10,12 @@ NOTE: this may take a while between school and work, don't expect magic by tomor
 * Connect the drive to the interface (6 pin DIN)
 * Scan the face of the disk into image file, alternativly, take a photo
 * Name the photo and file to be taken in from disk
-* Creates new 
+* Creates new folder with name of disk, contains scan/photo of disk and disk image
 
 ### Hardware plans:
-* For ease of access and development, the AVR platform will be used.
-* Possibly include a reversible modification including an endstop to prevent platter crash.
+* For ease of access and development, the AVR platform will be used
+* Possibly include a reversible modification including an endstop to prevent platter crash
+* Otherwise, perhaps a mic to detect spefic sound of head crash (more complicated?)
 * Possibly model and print an endstop mount to go inside the drive
 * Custom board design, has female 6 pin DIN connector (eventually)
 * First built on protoboard unless 6 pin DIN won't fit right in 0.1" spacing
@@ -27,6 +28,11 @@ NOTE: this may take a while between school and work, don't expect magic by tomor
 * The AVR that interacts with the drive should prevent damage to the drive (head crash)
 * Script communicates with serial comm port attached to interface device
 
+
+
+### Reference documentation:
+Serial port info
+https://www.c64-wiki.com/wiki/Serial_Port
 
 
 
