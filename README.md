@@ -19,6 +19,8 @@ NOTE: this may take a while between school and work, don't expect magic by tomor
 * Possibly model and print an endstop mount to go inside the drive
 * Custom board design, has female 6 pin DIN connector (eventually)
 * First built on protoboard unless 6 pin DIN won't fit right in 0.1" spacing
+* Likely going to use an Arduino Nano dev board, they're cheap and easy to embed as a daughter
+
 
 ### Software plans:
 * A custom C64 serial to USB protocol will be made
@@ -27,7 +29,8 @@ NOTE: this may take a while between school and work, don't expect magic by tomor
 * The python script should have GUI control
 * The AVR that interacts with the drive should prevent damage to the drive (head crash)
 * Script communicates with serial comm port attached to interface device
-
+* python script should interact with printer to scan disk, or at least scanned pic file and
+   read the text on the disk to fill out the info
 
 
 ### Reference documentation:
