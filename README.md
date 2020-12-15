@@ -3,6 +3,9 @@ Open source project to interface a Commodore 64 1541 5.25" floppy disk drive wit
 
 NOTE: this may take a while between school and work, don't expect magic by tomorrow
 
+Interface version: 0.000
+Script version: 0.000
+(no code made yet, planning phase)
 
 
 ### Workflow plan
