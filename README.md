@@ -33,7 +33,8 @@ Script version: 0.000
 - [ ] The AVR that interacts with the drive should prevent damage to the drive (head crash)
 - [ ] Script communicates with serial comm port attached to interface device
 - [ ] python script should interact with printer to scan disk, or at least scanned pic file and
-   read the text on the disk to fill out the info
+   read the text on the disk to fill out the info  
+- [ ] use tkinter to make GUI  
 
 
 ### Reference documentation:
