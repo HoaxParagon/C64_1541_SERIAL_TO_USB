@@ -8,7 +8,7 @@ Script version: 0.000
 (no code made yet, planning phase)  
 
 
-### Workflow plan
+### Workflow plan:
 - [ ] Connect the interface to the PC (USB)
 - [ ] Connect the drive to the interface (6 pin DIN)
 - [ ] Scan the face of the disk into image file, alternativly, take a photo
